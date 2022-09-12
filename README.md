@@ -1,3 +1,4 @@
-# aula-6-Senac-Resilia
-Portfólio Teste
-Tecnologias usadas
+# Treinando HTML e CSS na Aula 6
+Senac | Resilia | Programadores cariocas
+
+-Portfolio teste
